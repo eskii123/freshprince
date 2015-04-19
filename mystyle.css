@@ -1,0 +1,30 @@
+.masthead {
+ 	background-image: url('https://download.unsplash.com/photo-1421986527537-888d998adb74'); 
+}
+
+
+h1 {
+	color: darkblue;
+	font-weight: bold
+	font-size: 46px;
+	font-family: 'Parisienne', cursive;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+body {
+	background-color: aliceblue;
+	font-family: calibri;
+	text-align: center;
+}
+
+div {
+	text-align: left;
+	list-style-type:  none;
+	text-indent: 120mm;
+	list-style-position: inside;
+}
+
+span {
+	font-weight: bold;
+	font-size: 16;
+}
